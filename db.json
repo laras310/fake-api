@@ -70,33 +70,7 @@
         "penjual": "@metofc",
         "price": "499.000",
         "description": "Keyboard gaming ini hadir dengan design keren ala gamer dengan Multicolor Backlight yang menyala-nyala. Base dari keyboard ini terbuat dari bahan metal sehingga memberi kesan mewah dan mahal. Keyboard ini juga telah menggunakan key mechanical sehingga mengetik menjadi lebih nyaman."
-    },
-    {
-        "id": "7",
-        "productName": "Kb871 Keyboard Gaming Usb 104 Tombol",
-        "image": "kb871.jpg",
-        "grade": "4.8",
-        "penjual": "@kb871ofc",
-        "price": "500.000",
-        "description": "Bhinneka merupakan toko online terpercaya di Indonesia yang hadir sejak 1993 dan menjual Kb871 Keyboard Gaming Usb 104 Tombol terlengkap. Dengan Bhinneka, pelanggan dan calon konsumen bisa memilih Kb871 Keyboard Gaming Usb 104  Keyboard terbaik."
-    },
-    {
-        "id": "8",
-        "productName": "Kb871 Keyboard Gaming Usb 104 Tombol",
-        "image": "kb871.jpg",
-        "grade": "4.8",
-        "penjual": "@kb871ofc",
-        "price": "500.000",
-        "description": "Bhinneka merupakan toko online terpercaya di Indonesia yang hadir sejak 1993 dan menjual Kb871 Keyboard Gaming Usb 104 Tombol terlengkap. Dengan Bhinneka, pelanggan dan calon konsumen bisa memilih Kb871 Keyboard Gaming Usb 104  Keyboard terbaik."
-    },
-    {
-        "id": "9",
-        "productName": "HITIME XVX M61 60% Mechanical Keyboard Wireless, Ultra-Compact 2.4G Rechargeable Gaming Keyboard",
-        "image": "hitme.jpg",
-        "grade": "4.8",
-        "penjual": "@hitmeofc",
-        "price": "499.000",
-        "description": "This 60 percent keyboard is with unique xvx profile PBT keycap and themed shell, showing the fine art in 360 degrees, dedicated for FPS Gamers and efficient working."
     }
+    
     
 ]
