@@ -1,4 +1,4 @@
-[
+
     {
         "id": "0",
         "productName": "Huawei MateBook X Pro",
@@ -7,42 +7,4 @@
         "penjual": "@huaweiofc",
         "price": "7.000.000",
         "description": "The Huawei MateBook X Pro is our pick "
-    },
-    {
-        "id": "1",
-        "productName": "Apple Macbook Pro 2018, 16GB,1TB GB SSD",
-        "image": "macbook-pro-15.jpg",
-        "grade": "4.8",
-        "penjual": "@iboxindolampung",
-        "price": "13.000.000",
-        "description": "If you're after the latest and greatest lapto"
-    },
-    {
-        "id": "2",
-        "productName": "Dell XPS 13 16GB 512GB SSD, 13.3-inch, Full HD",
-        "image": "dell-xps-13.png",
-        "grade": "4.8",
-        "penjual": "@dellofc",
-        "price": "7.000.000",
-        "description": "The Dell XPS 13 "
-    },
-    {
-        "id": "3",
-        "productName": "Asus ZenBook Flip S ",
-        "image": "asus-zenbook-flip-s.jpg",
-        "grade": "4.8",
-        "penjual": "@asusofc",
-        "price": "8.500.000",
-        "description": "Asus has struck gold "
-    },
-    {
-        "id": "4",
-        "productName": "Samsung Notebook 9 16GB 256GB SSD 15-inch, Full HD",
-        "image": "samsung-notebook-9.jpg",
-        "grade": "4.8",
-        "penjual": "@samsungofc",
-        "price": "9.000.000",
-        "description": "While it may not have t"
     }
-    
-]
