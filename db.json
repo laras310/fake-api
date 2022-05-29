@@ -2,7 +2,7 @@
     {
         "id": "0",
         "productName": "Huawei MateBook X Pro",
-        "image": "require('huawei-matebook-pro.jpg)",
+        "image": "require('./assets/huawei-matebook-pro.jpg)",
         "grade": "4.8",
         "penjual": "@huaweiofc",
         "price": "7.000.000",
@@ -11,7 +11,7 @@
     {
         "id": "1",
         "productName": "Apple Macbook Pro 2018, 16GB,1TB GB SSD",
-        "image": "require('macbook-pro-15.jpg')",
+        "image": "require('./assets/macbook-pro-15.jpg')",
         "grade": "4.8",
         "penjual": "@iboxindolampung",
         "price": "13.000.000",
